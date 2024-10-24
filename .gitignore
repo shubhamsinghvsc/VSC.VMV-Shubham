@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Core/.vs
+/Core/VSC.VMV.Common/bin
+/Core/VSC.VMV.Common/obj
+/Core/VSC.VMV.Repository/bin
+/Core/VSC.VMV.Repository/obj
+/Server/VSC.VMV.Server/bin
+/Server/VSC.VMV.Server/obj
+/Server/VSC.VMV.Server/VSC.VMV.Server.csproj.user
