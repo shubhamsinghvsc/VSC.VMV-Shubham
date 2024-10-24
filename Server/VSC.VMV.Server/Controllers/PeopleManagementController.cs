@@ -365,6 +365,9 @@ namespace VSC.VMV.Server.Controllers
       {
         return BadRequest(ModelState);
       }
+
+      // phone number need to validated properly, default validation does not fullfill my requirment
+
       //if (frontdesk == null)
       //{
       //  return BadRequest(new ApiResponse<string> 
@@ -645,8 +648,6 @@ namespace VSC.VMV.Server.Controllers
       //    Data = null
       //  });
       //}
-
-
 
       try
       {
